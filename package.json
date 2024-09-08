@@ -1,0 +1,31 @@
+{
+  "name": "Payment-Gateway",
+  "version": "1.0.0",
+  "description": "A cross-chain payment Gateway platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+     "url": "git+https://github.com/lolosaisa/Payment-Gateway.git"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolosaisa/Payment-Gateway/issues"
+  },
+  "homepage": "https://github.com/lolosaisa/Payment-Gateway#readme",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@typescript-eslint/eslint-plugin": "^8.4.0",
+    "@typescript-eslint/parser": "^8.4.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.26.1"
+  }
+}
